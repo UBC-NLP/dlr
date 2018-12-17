@@ -3,9 +3,9 @@
 
 **Year:** Winter Session II 2019
 
-**Time:**
+**Time:** Wed & Fri: 5:00pm-6:30pm (Since this is a directed research course, we might agree to skip some Fridays)
 
-**Location:** 
+**Location:** iSchool Greg Lab. (Irving K. Barber, 4th floor)
 
 **Instructor:** Dr. Muhammad Abdul-Mageed
 
@@ -25,17 +25,26 @@
 **Rationale/Background:** *Deep learning*, a class of machine learning methods inspired by information processing in the human brain, have revolutionized the way we build machines, automate processes, analyze data, and just problem-solve in a fast-increasing host of domains. These transformational changes have disrupted whole industries, and are expected to impact wide sectors of society. Scholarship in the field has been growing very rapidly, with significant funding provided for both basic research and applications. 
 
 
-**Goal:** This is a graduate-level, research-focused course aimed at briding the gab between basic deep learning knowledge and novel and bleeding-edge deep learning research. The course will emphasize deep learning methods developed over the past 2-3 years, with more attention allocated to the last year of scholarship in the field. Areas of application will be geared toward student interests, with likely areas being:
+**Goal:** This is a graduate-level, directed resarch course aimed at briding the gab between basic deep learning knowledge and novel and bleeding-edge deep learning research. The course will emphasize deep learning methods developed over the past 2-3 years, with more attention allocated to the last year of scholarship in the field. Areas of will include:
 
-* Neural Machine Translation
+* Generative Deep Learning
 
-* Neural Cross-Lingual Natural Language Understanding
+* Attention
 
-* Language and Visual Inteligence
-
-* Deep Learning for Brain Signal
+* Representation Learning
 
 * Bayesian Deep Learning
+
+
+Students can choose any area of application, including:
+
+* Unsupervised Machine Translation
+
+* (Cross-Lingual) Natural Language Understanding
+
+* Grounding; Language and Visual Inteligence
+
+* Deep Learning for Brain Signal
 
 
 **Potential audiences for this course are:**
@@ -49,10 +58,9 @@ Upon completion of this course students will be able to:
 * *identify* a sub-area of deep learning research and write a high-quality research paper for a top venue.
 
 
-
 ## 3.	Course Topics:
 
-TBA (But see above)
+TBA (But see above). There will be some space to customize some select sessions based on student interests which might not be covered in areas above.
 
 
 ## 4.	Prerequisites:  
@@ -60,7 +68,7 @@ TBA (But see above)
 * Knwoledge of basic deep learning methods (as demonstrated by course work or at least one publication)
  
 ## 5.	Format of the course: 
-•	This course will operate in a seminar fashion where students and the instructor meet twice a week to read novel literature. Each student is required to present at least twice thorough-out the semester. There will also be student-led engineering sessions (1 or 2, but likely more based on interest).
+•	This course will operate in a seminar fashion where students and the instructor meet twice a week to read and discuss novel research papers. Some sessions will be focused on engineering. Presentations will rotate among students, with enough prior time for preparation. This course has no homework. Output will be a research paper by the end of the semester. 
 
 ## 6. Course syllabus:
 
@@ -88,40 +96,46 @@ TBA
 ## 9. Course Assignments/Grades:
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
-| Professionalization & Class Participation |  Throughout | 15% |
-| ASSIGNMENT 1: First presentation |  | 10% |
-| ASSIGNMENT 2: Second presentation |  | 10% |
-| ASSIGNMENT 3_A: Group assignment: Project Proposal/Draft |   | 10% |
-| ASSIGNMENT 3_B: Group assignment: Term Project |     | 55% |
+| Professionalization & Class Participation |  Throughout | 10% |
+| First presentation |  | 10% |
+| Second presentation |  | 10% |
+| Third presentation (optional; grade can be allocated to final project) |  | 10% |
+| Individual or Group assignment: Project Proposal |   | Ungraded |
+| Individual or Group assignment: Term Project |     | 60% |
 
 ## Notes on Assignments:
 
 
-### ASSIGNMENT 1: *Word Embeddings* 
+### Presentations: 
 
+Presentations will be graded with a check mark upon completion, meaning students will be assigned full presentation grade upon delivery. Since this is a directed reading/research course, students are expected to do their best to deliver high quality presentations. This includes making sure a student starts preparing early, does her/his best to digest and explain the matrial, and include enough examples to illustrate a concept. Concievably, some material will be techincal and/or will need enough attention. Discussions in class will be complementary to the student presentations and all students will be expected to participate by asking questions and possibly answering others' questions..
 
 
 
 **Deliverables:
 
-### ASSIGNMENT 2: 
+A presentation (with slides and possibly code)
+
+### Project Proposal: 
+
+Students will prepare a 2-page proposal of a research project. The proposal should have enough details about the method, data, brief lietrature review, expected outcome, and (in group projects) a breakdown of work over time (and among members).Students will have the opportunity to discuss their ideas closely with the instructor and their peers.
 
 **Deliverables: 
 
+A 2-page project proposal.
 
-### ASSIGNMENT 3_a: 
+### Final Project: 
+
+The major assignment in this course is a research paper that presents a novel deep learning method to solve a problem, or a novel application of one of the deep learning methods covered in class. The paper should be of high-quality and follow the norms of academic publishing within the DL and/or NLP community. Students will have the opportunity to work closely with the isntructors and peers on their projects.
 
 **Deliverables: 
 
-### ASSIGNMENT 3_b: 
-
-**Deliverables: 
-
+An 8-page, publishable, research paper. 
 
 
 ## 10. Course Policies
 
-**Attendance:** The UBC calendar states: “Regular attendance is expected of students in all their classes (including lectures, laboratories, tutorials, seminars, etc.). Students who neglect their academic work and assignments may be excluded from the final examinations. Students who are unavoidably absent because of illness or disability should report to their instructors on return to classes.”
+**Attendance:** Since this is a directed research/reading course, some Friday sessions may be canceled upon agreement in class, with prior notice. Otherwise, students are expected to attend regularly and come prepared. The UBC calendar states: “Regular attendance is expected of students in all their classes (including lectures, laboratories, tutorials, seminars, etc.). Students who neglect their academic work and assignments may be excluded from the final examinations. Students who are unavoidably absent because of illness or disability should report to their instructors on return to classes.”
 
 **Evaluation:** All assignments will be marked using the evaluative criteria given in this syllabus.
 
