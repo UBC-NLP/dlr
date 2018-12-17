@@ -33,23 +33,23 @@
 
 * Representation Learning
 
-* Bayesian Deep Learning
+* Bayesian Deep Learning (Only upon student interest)
 
 
 Students can choose any area of application, including:
 
 * Unsupervised Machine Translation
 
+* Deep Learning for Brain Signal
+
 * (Cross-Lingual) Natural Language Understanding
 
 * Grounding; Language and Visual Inteligence
 
-* Deep Learning for Brain Signal
-
 
 **Potential audiences for this course are:**
 
-* Students with a deep learning background from any field. This includes people who have taken LING530F (Deep Learning for Natural Language Processing) and those who have taken a graduate-level ML course and are already familiar with deep learning methods. (This course will not cover deep learning basics)
+* Students with a deep learning background from any field. This includes people who have taken LING530F (Deep Learning for Natural Language Processing) and those who have taken a graduate-level ML course and are already familiar with deep learning methods. (This course will not cover deep learning basics. See also pre-requisites below).
 
 
 ## 2.	Course Objectives: 
@@ -65,10 +65,10 @@ TBA (But see above). There will be some space to customize some select sessions 
 
 ## 4.	Prerequisites:  
 
-* Knwoledge of basic deep learning methods (as demonstrated by course work or at least one publication)
+* Knwoledge of basic deep learning methods (as demonstrated by course work or at least one publication). Students who have taken [[Deep Learning for Natural Language Processing](https://github.com/UBC-NLP/deeplearning-nlp2018)] satisfy pre-requisites. In rare cases, students vetted by a Professor or a student who took [[DLNLP](https://github.com/UBC-NLP/deeplearning-nlp2018)] will be allowed to register.
  
 ## 5.	Format of the course: 
-•	This course will operate in a seminar fashion where students and the instructor meet twice a week to read and discuss novel research papers. Some sessions will be focused on engineering. Presentations will rotate among students, with enough prior time for preparation. This course has no homework. Output will be a research paper by the end of the semester. 
+•	This is not a regular course. Rather, this is a directed research/reading course that will operate in a seminar fashion where students and the instructor meet twice a week to read and discuss novel research papers. Some sessions will be focused on engineering. Presentations will rotate among students, with enough prior time for preparation. This course has no homework. Output will be a research paper by the end of the semester. 
 
 ## 6. Course syllabus:
 
@@ -79,19 +79,14 @@ TBA (But see above). There will be some space to customize some select sessions 
 * Several research papers will be added.
 
 
-**Other recommended books:**
-
-* TBA
-
 ## 7. Calendar / Weekly schedule (tentative)
-TBA
+
+Will be arranged upon organizational meeting/discussion in class.
 
 
 ## 8. Readings:  
 
 TBA
-
-
 
 ## 9. Course Assignments/Grades:
 | Assignment | Due date | Weight |
@@ -109,7 +104,6 @@ TBA
 ### Presentations: 
 
 Presentations will be graded with a check mark upon completion, meaning students will be assigned full presentation grade upon delivery. Since this is a directed reading/research course, students are expected to do their best to deliver high quality presentations. This includes making sure a student starts preparing early, does her/his best to digest and explain the matrial, and include enough examples to illustrate a concept. Concievably, some material will be techincal and/or will need enough attention. Discussions in class will be complementary to the student presentations and all students will be expected to participate by asking questions and possibly answering others' questions..
-
 
 
 **Deliverables:
