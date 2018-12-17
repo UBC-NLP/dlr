@@ -46,6 +46,8 @@ Students can choose any area of application, including:
 
 * Grounding; Language and Visual Inteligence
 
+* Style Transfer
+
 
 **Potential audiences for this course are:**
 
@@ -76,9 +78,6 @@ TBA (But see above). There will be some space to customize some select sessions 
 
 * Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016). Deep learning (Vol. 1). Cambridge: MIT press. Available at: [[link](http://www.deeplearningbook.org/)]. 
 
-* Several research papers will be added.
-
-
 ## 7. Calendar / Weekly schedule (tentative)
 
 Will be arranged upon organizational meeting/discussion in class.
@@ -86,7 +85,32 @@ Will be arranged upon organizational meeting/discussion in class.
 
 ## 8. Readings:  
 
-TBA
+* [[Unsupervised machine translation using monolingual corpora only](https://arxiv.org/pdf/1711.00043.pdf)]
+* [[Unsupervised Text Style Transfer using Language Models as Discriminators](https://arxiv.org/pdf/1805.11749.pdf)]
+* [[Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora](https://arxiv.org/pdf/1810.11878.pdf)]
+* [[Improving language understanding by generative pre-training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)]
+* [[Content preserving text generation with attribute controls](https://papers.nips.cc/paper/7757-content-preserving-text-generation-with-attribute-controls.pdf)]
+* [[Phrase-Based & Neural Unsupervised Machine Translation](https://www.cs.ubc.ca/~amuham01/LING530/papers/lample2018phrase.pdf)]
+* [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)]
+* [[Towards Unsupervised Speech-To-Text Translation](http://people.csail.mit.edu/andyyuan/docs/unsupervised_ST.paper.pdf)]
+* [[Adversarial Text Generation via Feature-Mover's Distance](http://papers.nips.cc/paper/7717-adversarial-text-generation-via-feature-movers-distance.pdf)]
+* [[Rapid adaptation of neural machine translation to new languages](https://arxiv.org/pdf/1808.04189.pdf)]
+* [[Multiple-Attribute Text Style Transfer](https://arxiv.org/pdf/1811.00552.pdf)]
+* [[Bidirectional Generative Adversarial Networks for Neural Machine Translation](http://www.aclweb.org/anthology/K18-1019)]
+* [[Style transfer as unsupervised machine translation](https://arxiv.org/pdf/1808.07894.pdf)]
+* [[Understanding back-translation at scale](https://arxiv.org/pdf/1808.09381.pdf)]
+* [[Back-translation-style data augmentation for end-to-end ASR](https://arxiv.org/pdf/1807.10893.pdf)]
+* [[Unsupervised Controllable Text Formalization](https://arxiv.org/pdf/1809.04556.pdf)]
+* [[Learning to Read by Spelling: Towards Unsupervised Text Recognition](https://arxiv.org/pdf/1809.08675.pdf)]
+* [[A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis](http://www.aclweb.org/anthology/C18-1074)]
+* [[Weakly Supervised One-Shot Detection with Attention Siamese Networks](https://arxiv.org/pdf/1801.03329.pdf)]
+* [[Denoising Neural Machine Translation Training with Trusted Data and Online Data Selection](https://arxiv.org/pdf/1809.00068.pdf)]
+* [[Generating sentences by editing prototypes](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00030)]
+* [[Allennlp: A deep semantic natural language processing platform](https://arxiv.org/pdf/1803.07640.pdf)]
+* [[]()]
+
+
+
 
 ## 9. Course Assignments/Grades:
 | Assignment | Due date | Weight |
