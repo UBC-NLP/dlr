@@ -25,7 +25,7 @@
 **Rationale/Background:** *Deep learning*, a class of machine learning methods inspired by information processing in the human brain, have revolutionized the way we build machines, automate processes, analyze data, and just problem-solve in a fast-increasing host of domains. These transformational changes have disrupted whole industries, and are expected to impact wide sectors of society. Scholarship in the field has been growing very rapidly, with significant funding provided for both basic research and applications. 
 
 
-**Goal:** This is a graduate-level, directed resarch course aimed at briding the gab between basic deep learning knowledge and novel and bleeding-edge deep learning research. The course will emphasize deep learning methods developed over the past 2-3 years, with more attention allocated to the last year of scholarship in the field. Areas of will include:
+**Goal:** This is a graduate-level, directed resarch course aimed at bridging the gab between basic deep learning knowledge and novel and bleeding-edge deep learning research. The course will emphasize deep learning methods developed over the past 2-3 years, with more attention allocated to the last year of scholarship in the field. Areas of will include:
 
 * Generative Deep Learning
 
