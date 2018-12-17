@@ -48,6 +48,8 @@ Students can choose any area of application, including:
 
 * Style Transfer
 
+* Automatic Summarization
+
 
 **Potential audiences for this course are:**
 
@@ -107,8 +109,21 @@ Will be arranged upon organizational meeting/discussion in class.
 * [[Denoising Neural Machine Translation Training with Trusted Data and Online Data Selection](https://arxiv.org/pdf/1809.00068.pdf)]
 * [[Generating sentences by editing prototypes](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00030)]
 * [[Allennlp: A deep semantic natural language processing platform](https://arxiv.org/pdf/1803.07640.pdf)]
+* [[Texygen: A Benchmarking Platform for Text Generation Models](https://arxiv.org/pdf/1802.01886.pdf)]
+* [[Extractive Summary as Discrete Latent Variables](https://arxiv.org/pdf/1811.05542.pdf)]
+* [[Middle-Out Decoding](http://papers.nips.cc/paper/7796-middle-out-decoding.pdf)]
+* [[Language GANs Falling Short](https://arxiv.org/pdf/1811.02549.pdf)]
+* [[Eval all, trust a few, do wrong to none: Comparing sentence generation models](https://arxiv.org/pdf/1804.07972.pdf)]
+* [[Maskgan: Better text generation via filling in the \_](https://arxiv.org/pdf/1801.07736.pdf)]
+* [[On accurate evaluation of gans for language generation](https://arxiv.org/pdf/1806.04936.pdf)]
+* [[Neural text generation: Past, present and beyond](https://arxiv.org/pdf/1803.07133.pdf)]
+* [[A deep learning method for classification of EEG data based on motor imagery](https://pdfs.semanticscholar.org/912c/084010703706632e58a67195158e62acb22b.pdf)]
+* [[Converting your thoughts to texts: Enabling brain typing via deep feature learning of EEG signals](https://arxiv.org/pdf/1709.08820.pdf)]
+* [[Brain2Object: Printing Your Mind from Brain Signals with Spatial Correlation Embedding](https://arxiv.org/pdf/1810.02223.pdf)]
+* [[Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks](https://www.researchgate.net/profile/Cuntai_Guan/publication/323668427_Learning_Temporal_Information_for_Brain-Computer_Interface_Using_Convolutional_Neural_Networks/links/5aa4da18aca272d448b9076d/Learning-Temporal-Information-for-Brain-Computer-Interface-Using-Convolutional-Neural-Networks.pdf)]
+* [[Validating deep neural networks for online decoding of motor imagery movements from EEG signals](https://www.preprints.org/manuscript/201809.0481/download/final_file)]
 * [[]()]
-
+* [[]()]
 
 
 
