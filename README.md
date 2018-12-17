@@ -85,7 +85,7 @@ TBA (But see above). There will be some space to customize some select sessions 
 Will be arranged upon organizational meeting/discussion in class.
 
 
-## 8. Readings:  
+## 8. Readings (tentative):  
 
 * [[Unsupervised machine translation using monolingual corpora only](https://arxiv.org/pdf/1711.00043.pdf)]
 * [[Unsupervised Text Style Transfer using Language Models as Discriminators](https://arxiv.org/pdf/1805.11749.pdf)]
