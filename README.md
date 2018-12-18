@@ -25,7 +25,7 @@
 **Rationale/Background:** *Deep learning*, a class of machine learning methods inspired by information processing in the human brain, have revolutionized the way we build machines, automate processes, analyze data, and just problem-solve in a fast-increasing host of domains. These transformational changes have disrupted whole industries, and are expected to impact wide sectors of society. Scholarship in the field has been growing very rapidly, with significant funding provided for both basic research and applications. 
 
 
-**Goal:** This is a graduate-level, directed resarch course aimed at bridging the gab between basic deep learning knowledge and novel and bleeding-edge deep learning research. The course will emphasize deep learning methods developed over the past 2-3 years, with more attention allocated to the last year of scholarship in the field. Areas will include (some of) the below:
+**Goal:** This is a graduate-level, directed resarch course aimed at bridging the gab between basic deep learning knowledge and novel and bleeding-edge deep learning research. The course will emphasize deep learning methods developed over the past 1-2 years, with more attention allocated to the last 8-12 months of scholarship in the field. Areas will include (some of) the below:
 
 * Generative Deep Learning
 
@@ -38,7 +38,7 @@
 * Deep Learning over Graphs
 
 
-Students can choose any area of application, including:
+**Students can choose any area of application, including:**
 
 * Unsupervised Machine Translation
 
@@ -64,9 +64,11 @@ Students can choose any area of application, including:
 Upon completion of this course students will be able to:
 
 * *identify* a sub-area of deep learning research, engineer a solution, and write a high-quality research paper for a top venue.
+
 * *prepare* and deliver a presentation based on a novel deep learning research area or paper.
 
-* *understand* a range of deep learning topics at a research level theoritically, and *develop* related engineering solutions
+* *understand* a range of deep learning topics at a research level theoritically, and 
+*develop* related engineering solutions
 
 
 ## 3.	Course Topics:
@@ -93,6 +95,8 @@ Will be arranged upon organizational meeting/discussion in class.
 
 
 ## 8. Readings (tentative):  
+
+Will be re-arranged thematically.
 
 * [[Unsupervised machine translation using monolingual corpora only](https://arxiv.org/pdf/1711.00043.pdf)]
 * [[Unsupervised Text Style Transfer using Language Models as Discriminators](https://arxiv.org/pdf/1805.11749.pdf)]
