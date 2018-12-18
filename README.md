@@ -3,7 +3,7 @@
 
 **Year:** Winter Session II 2019
 
-**Time:** Wed & Fri: 5:00pm-6:30pm (Since this is a directed research course, we might agree to skip some Fridays)
+**Time:** Wed & Fri: 5:00pm-6:30pm 
 
 **Location:** iSchool Greg Lab. (Irving K. Barber, 4th floor)
 
@@ -25,7 +25,7 @@
 **Rationale/Background:** *Deep learning*, a class of machine learning methods inspired by information processing in the human brain, have revolutionized the way we build machines, automate processes, analyze data, and just problem-solve in a fast-increasing host of domains. These transformational changes have disrupted whole industries, and are expected to impact wide sectors of society. Scholarship in the field has been growing very rapidly, with significant funding provided for both basic research and applications. 
 
 
-**Goal:** This is a graduate-level, directed resarch course aimed at bridging the gab between basic deep learning knowledge and novel and bleeding-edge deep learning research. The course will emphasize deep learning methods developed over the past 2-3 years, with more attention allocated to the last year of scholarship in the field. Areas of will include:
+**Goal:** This is a graduate-level, directed resarch course aimed at bridging the gab between basic deep learning knowledge and novel and bleeding-edge deep learning research. The course will emphasize deep learning methods developed over the past 2-3 years, with more attention allocated to the last year of scholarship in the field. Areas will include (some of) the below:
 
 * Generative Deep Learning
 
@@ -33,7 +33,9 @@
 
 * Representation Learning
 
-* Bayesian Deep Learning (Only upon student interest)
+* Bayesian Deep Learning 
+
+* Deep Learning over Graphs
 
 
 Students can choose any area of application, including:
@@ -50,6 +52,8 @@ Students can choose any area of application, including:
 
 * Automatic Summarization
 
+* Misinformation Detection over Social Networks
+
 
 **Potential audiences for this course are:**
 
@@ -59,7 +63,10 @@ Students can choose any area of application, including:
 ## 2.	Course Objectives: 
 Upon completion of this course students will be able to:
 
-* *identify* a sub-area of deep learning research and write a high-quality research paper for a top venue.
+* *identify* a sub-area of deep learning research, engineer a solution, and write a high-quality research paper for a top venue.
+* *prepare* and deliver a presentation based on a novel deep learning research area or paper.
+
+* *understand* a range of deep learning topics at a research level theoritically, and *develop* related engineering solutions
 
 
 ## 3.	Course Topics:
@@ -69,7 +76,7 @@ TBA (But see above). There will be some space to customize some select sessions 
 
 ## 4.	Prerequisites:  
 
-* Knwoledge of basic deep learning methods (as demonstrated by course work or at least one publication). Students who have taken [[Deep Learning for Natural Language Processing](https://github.com/UBC-NLP/deeplearning-nlp2018)] satisfy pre-requisites. In rare cases, students vetted by a Professor or a student who took [[DLNLP](https://github.com/UBC-NLP/deeplearning-nlp2018)] will be allowed to register.
+* Knwoledge of basic deep learning methods (as demonstrated by course work or at least one publication). Students who have taken [[Deep Learning for Natural Language Processing](https://github.com/UBC-NLP/deeplearning-nlp2018)] satisfy pre-requisites. Students vetted by a) a Professor or b) another student who took [[DLNLP](https://github.com/UBC-NLP/deeplearning-nlp2018)] will be allowed to register. 
  
 ## 5.	Format of the course: 
 •	This is not a regular course. Rather, this is a directed research/reading course that will operate in a seminar fashion where students and the instructor meet twice a week to read and discuss novel research papers. Some sessions will be focused on engineering. Presentations will rotate among students, with enough prior time for preparation. This course has no homework. Output will be a research paper by the end of the semester. 
