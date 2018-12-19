@@ -174,7 +174,7 @@ The major assignment in this course is a research paper that presents a novel de
 
 **Deliverables: 
 
-An 8-page, publishable, research paper. 
+An 8-page, publishable, research paper + all relevant code. 
 
 
 ## 10. Course Policies
