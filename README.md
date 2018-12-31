@@ -91,7 +91,15 @@ TBA (But see above). There will be some space to customize some select sessions 
 
 ## 7. Calendar / Weekly schedule (tentative)
 
-Will be arranged upon organizational meeting/discussion in class.
+**Note:** Will be arranged further upon organizational meeting/discussion in class.
+
+| Time | Topic/Paper | Presenter | Slides |
+| ----  | ------ | ------- | ------ |
+| Jan. 9 | [[Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)] | Pramit Saha | [[slides](https://github.com/UBC-NLP/dlr/edit/master/slides/xx)] |
+
+| Jan. 16 | [[ Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)] | Borna Ghotbi | [[slides](https://github.com/UBC-NLP/dlr/edit/master/slides/xx)] |
+
+| Jan. 18 | [[Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/edit/master/slides/xx)] |
 
 
 ## 8. Readings (tentative):  
