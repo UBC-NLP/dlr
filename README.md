@@ -103,43 +103,56 @@ TBA (But see above). There will be some space to customize some select sessions 
 ## 8. Readings (tentative):  
 
 Will be re-arranged thematically.
-
+### Attention
 * [[Neural Sentiment Classification with User and Product Attention](http://www.aclweb.org/anthology/D16-1171)]
+* [[A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis](http://www.aclweb.org/anthology/C18-1074)]
+* [[Weakly Supervised One-Shot Detection with Attention Siamese Networks](https://arxiv.org/pdf/1801.03329.pdf)]
+---
+### Machine Translation
 * [[Unsupervised machine translation using monolingual corpora only](https://arxiv.org/pdf/1711.00043.pdf)]
-* [[Unsupervised Text Style Transfer using Language Models as Discriminators](https://arxiv.org/pdf/1805.11749.pdf)]
-* [[Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora](https://arxiv.org/pdf/1810.11878.pdf)]
-* [[Improving language understanding by generative pre-training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)]
-* [[Content preserving text generation with attribute controls](https://papers.nips.cc/paper/7757-content-preserving-text-generation-with-attribute-controls.pdf)]
 * [[Phrase-Based & Neural Unsupervised Machine Translation](https://www.cs.ubc.ca/~amuham01/LING530/papers/lample2018phrase.pdf)]
-* [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)]
 * [[Towards Unsupervised Speech-To-Text Translation](http://people.csail.mit.edu/andyyuan/docs/unsupervised_ST.paper.pdf)]
-* [[Adversarial Text Generation via Feature-Mover's Distance](http://papers.nips.cc/paper/7717-adversarial-text-generation-via-feature-movers-distance.pdf)]
 * [[Rapid adaptation of neural machine translation to new languages](https://arxiv.org/pdf/1808.04189.pdf)]
-* [[Multiple-Attribute Text Style Transfer](https://arxiv.org/pdf/1811.00552.pdf)]
 * [[Bidirectional Generative Adversarial Networks for Neural Machine Translation](http://www.aclweb.org/anthology/K18-1019)]
 * [[Style transfer as unsupervised machine translation](https://arxiv.org/pdf/1808.07894.pdf)]
 * [[Understanding back-translation at scale](https://arxiv.org/pdf/1808.09381.pdf)]
 * [[Back-translation-style data augmentation for end-to-end ASR](https://arxiv.org/pdf/1807.10893.pdf)]
-* [[Unsupervised Controllable Text Formalization](https://arxiv.org/pdf/1809.04556.pdf)]
-* [[Learning to Read by Spelling: Towards Unsupervised Text Recognition](https://arxiv.org/pdf/1809.08675.pdf)]
-* [[A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis](http://www.aclweb.org/anthology/C18-1074)]
-* [[Weakly Supervised One-Shot Detection with Attention Siamese Networks](https://arxiv.org/pdf/1801.03329.pdf)]
 * [[Denoising Neural Machine Translation Training with Trusted Data and Online Data Selection](https://arxiv.org/pdf/1809.00068.pdf)]
+---
+### Style Transfer
+* [[Unsupervised Text Style Transfer using Language Models as Discriminators](https://arxiv.org/pdf/1805.11749.pdf)]
+* [[Multiple-Attribute Text Style Transfer](https://arxiv.org/pdf/1811.00552.pdf)]
+* [[Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora](https://arxiv.org/pdf/1810.11878.pdf)]
+* [[Unsupervised Controllable Text Formalization](https://arxiv.org/pdf/1809.04556.pdf)]
+---
+### Generation
+* [[Improving language understanding by generative pre-training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)]
+* [[Content preserving text generation with attribute controls](https://papers.nips.cc/paper/7757-content-preserving-text-generation-with-attribute-controls.pdf)]
+* [[Adversarial Text Generation via Feature-Mover's Distance](http://papers.nips.cc/paper/7717-adversarial-text-generation-via-feature-movers-distance.pdf)]
 * [[Generating sentences by editing prototypes](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00030)]
-* [[Allennlp: A deep semantic natural language processing platform](https://arxiv.org/pdf/1803.07640.pdf)]
 * [[Texygen: A Benchmarking Platform for Text Generation Models](https://arxiv.org/pdf/1802.01886.pdf)]
-* [[Extractive Summary as Discrete Latent Variables](https://arxiv.org/pdf/1811.05542.pdf)]
-* [[Middle-Out Decoding](http://papers.nips.cc/paper/7796-middle-out-decoding.pdf)]
-* [[Language GANs Falling Short](https://arxiv.org/pdf/1811.02549.pdf)]
 * [[Eval all, trust a few, do wrong to none: Comparing sentence generation models](https://arxiv.org/pdf/1804.07972.pdf)]
 * [[Maskgan: Better text generation via filling in the \_](https://arxiv.org/pdf/1801.07736.pdf)]
 * [[On accurate evaluation of gans for language generation](https://arxiv.org/pdf/1806.04936.pdf)]
 * [[Neural text generation: Past, present and beyond](https://arxiv.org/pdf/1803.07133.pdf)]
+---
+### Image
+* [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)]
+---
+* [[Learning to Read by Spelling: Towards Unsupervised Text Recognition](https://arxiv.org/pdf/1809.08675.pdf)]
+* [[Extractive Summary as Discrete Latent Variables](https://arxiv.org/pdf/1811.05542.pdf)]
+* [[Middle-Out Decoding](http://papers.nips.cc/paper/7796-middle-out-decoding.pdf)]
+* [[Language GANs Falling Short](https://arxiv.org/pdf/1811.02549.pdf)]
+
+### Brain2Speech
 * [[A deep learning method for classification of EEG data based on motor imagery](https://pdfs.semanticscholar.org/912c/084010703706632e58a67195158e62acb22b.pdf)]
 * [[Converting your thoughts to texts: Enabling brain typing via deep feature learning of EEG signals](https://arxiv.org/pdf/1709.08820.pdf)]
 * [[Brain2Object: Printing Your Mind from Brain Signals with Spatial Correlation Embedding](https://arxiv.org/pdf/1810.02223.pdf)]
 * [[Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks](https://www.researchgate.net/profile/Cuntai_Guan/publication/323668427_Learning_Temporal_Information_for_Brain-Computer_Interface_Using_Convolutional_Neural_Networks/links/5aa4da18aca272d448b9076d/Learning-Temporal-Information-for-Brain-Computer-Interface-Using-Convolutional-Neural-Networks.pdf)]
 * [[Validating deep neural networks for online decoding of motor imagery movements from EEG signals](https://www.preprints.org/manuscript/201809.0481/download/final_file)]
+### Tools
+* [[Allennlp: A deep semantic natural language processing platform](https://arxiv.org/pdf/1803.07640.pdf)]
+---
 * [[]()]
 * [[]()]
 
