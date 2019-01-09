@@ -104,6 +104,7 @@ TBA (But see above). There will be some space to customize some select sessions 
 
 Will be re-arranged thematically.
 
+* [[Neural Sentiment Classification with User and Product Attention](http://www.aclweb.org/anthology/D16-1171)]
 * [[Unsupervised machine translation using monolingual corpora only](https://arxiv.org/pdf/1711.00043.pdf)]
 * [[Unsupervised Text Style Transfer using Language Models as Discriminators](https://arxiv.org/pdf/1805.11749.pdf)]
 * [[Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora](https://arxiv.org/pdf/1810.11878.pdf)]
