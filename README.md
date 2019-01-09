@@ -102,7 +102,6 @@ TBA (But see above). There will be some space to customize some select sessions 
 
 ## 8. Readings (tentative):  
 
-Will be re-arranged thematically.
 ### Attention
 * [[Neural Sentiment Classification with User and Product Attention](http://www.aclweb.org/anthology/D16-1171)]
 * [[A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis](http://www.aclweb.org/anthology/C18-1074)]
@@ -153,6 +152,7 @@ Will be re-arranged thematically.
 ### Tools
 * [[Allennlp: A deep semantic natural language processing platform](https://arxiv.org/pdf/1803.07640.pdf)]
 ---
+### Other (To-Complete)
 * [[]()]
 * [[]()]
 
