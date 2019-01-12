@@ -136,6 +136,7 @@ TBA (But see above). There will be some space to customize some select sessions 
 * [[Neural text generation: Past, present and beyond](https://arxiv.org/pdf/1803.07133.pdf)]
 ---
 ### Image
+* [[Recipe1M: A Dataset for Learning Cross-Modal Embeddings for Cooking Recipes and Food Images](https://arxiv.org/pdf/1810.06553.pdf)]
 * [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)]
 ---
 * [[Learning to Read by Spelling: Towards Unsupervised Text Recognition](https://arxiv.org/pdf/1809.08675.pdf)]
