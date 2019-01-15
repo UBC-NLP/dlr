@@ -95,7 +95,7 @@ TBA (But see above). There will be some space to customize some select sessions 
 
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-| Jan. 9 | [[Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)] | Pramit Saha | [[slides](https://github.com/UBC-NLP/dlr/edit/master/slides/xx)] |
+| Jan. 9 | [[Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)] | Pramit Saha | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190109_GAN.pdf)] |
 | Jan. 16 | [[Recipe1M: A Dataset for Learning Cross-Modal Embeddings for Cooking Recipes and Food Images](https://arxiv.org/pdf/1810.06553.pdf)] | Borna Ghotbi | [[slides](https://github.com/UBC-NLP/dlr/edit/master/slides/xx)] |
 | Jan. 18 | [[Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/edit/master/slides/xx)] |
 
