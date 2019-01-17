@@ -100,7 +100,7 @@ TBA (But see above). There will be some space to customize some select sessions 
 | Jan. 18 | [[Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/edit/master/slides/xx)] |
 | Jan. 23 | [[Multiple-Attribute Text Style Transfer](https://arxiv.org/pdf/1811.00552.pdf)] | Ife Adebara | [[slides]()] |
 | Feb. 6 | [[UNSUPERVISED MACHINE TRANSLATION USING MONOLINGUAL CORPORA ONLY](https://research.fb.com/wp-content/uploads/2018/03/unsupervised-machine-translation-using-monolingual-corpora-only.pdf)] | Michael | [[slides]()] |
-| Feb. 8 | [[UNSUPERVISED MACHINE TRANSLATION USING MONOLINGUAL CORPORA ONLY](https://research.fb.com/wp-content/uploads/2018/03/unsupervised-machine-translation-using-monolingual-corpora-only.pdf)] | Michael | [[slides]()] |
+| Feb. 8 | [[OpenMT Code Tutorial](http://opennmt.net)] | Michael | [[slides]()] |
 | Feb. 13 | [[Graph-Attention Nets]()] | Michael | [[slides]()] |
 | Feb. 15 | [[]()] | Mohit | [[slides]()] |
 | Feb. 27 | [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)] | Borna | [[slides]()] |
