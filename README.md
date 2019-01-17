@@ -101,16 +101,17 @@ TBA (But see above). There will be some space to customize some select sessions 
 | Jan. 23 | [[Multiple-Attribute Text Style Transfer](https://arxiv.org/pdf/1811.00552.pdf)] | Ife Adebara | [[slides]()] |
 | Feb. 6 | [[Unsupervised Machine Translation Using Monolingual Corpora Only](https://research.fb.com/wp-content/uploads/2018/03/unsupervised-machine-translation-using-monolingual-corpora-only.pdf)] | Michael Przystupa | [[slides]()] |
 | Feb. 8 | [[OpenMT Code Tutorial](http://opennmt.net)] | Michael Przystupa| [[slides]()] |
-| Feb. 13 | [[Graph-Attention Nets]()] | Rudra Saha | [[slides]()] |
+| Feb. 13 | [[Graph-Attention Networks](https://mila.quebec/wp-content/uploads/2018/07/d1ac95b60310f43bb5a0b8024522fbe08fb2a482.pdf)] | Rudra Saha | [[slides]()] |
 | Feb. 15 | [[]()] | Mohit Bajaj | [[slides]()] |
 | Feb. 27 | [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)] | Borna Ghotbi | [[slides]()] |
 
 ## 8. Readings (tentative):  
 
-### Attention
+### Attention & Graphs
 * [[Neural Sentiment Classification with User and Product Attention](http://www.aclweb.org/anthology/D16-1171)]
 * [[A Lexicon-Based Supervised Attention Model for Neural Sentiment Analysis](http://www.aclweb.org/anthology/C18-1074)]
 * [[Weakly Supervised One-Shot Detection with Attention Siamese Networks](https://arxiv.org/pdf/1801.03329.pdf)]
+* [[Graph-Attention Networks](https://mila.quebec/wp-content/uploads/2018/07/d1ac95b60310f43bb5a0b8024522fbe08fb2a482.pdf)]
 ---
 ### Machine Translation
 * [[Unsupervised machine translation using monolingual corpora only](https://arxiv.org/pdf/1711.00043.pdf)]
