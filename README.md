@@ -160,9 +160,12 @@ TBA (But see above). There will be some space to customize some select sessions 
 * [[Allennlp: A deep semantic natural language processing platform](https://arxiv.org/pdf/1803.07640.pdf)]
 ---
 ### Other (To-Complete)
-* [[]()]
-* [[]()]
 
+* [[Understanding disentangling in β-VAE](https://arxiv.org/pdf/1804.03599.pdf)]
+* [[Isolating Sources of Disentanglement in VAEs](https://arxiv.org/pdf/1802.04942.pdf)]
+* [[A Tutorial on Deep Latent Variable Models of Natural Language](https://arxiv.org/pdf/1812.06834.pdf)]
+* [[]()]
+* [[]()]
 
 
 ## 9. Course Assignments/Grades:
