@@ -100,10 +100,10 @@ TBA (But see above). There will be some space to customize some select sessions 
 | Jan. 18 | [[Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190118_BERT.pdf)] |
 | Jan. 23 | [[Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190118_BERT.pdf)] |
 | Jan. 25 | [[Multiple-Attribute Text Style Transfer](https://arxiv.org/pdf/1811.00552.pdf)] | Ife Adebara | [[slides]()] |
-| Feb. 6 | [[Unsupervised Machine Translation Using Monolingual Corpora Only](https://research.fb.com/wp-content/uploads/2018/03/unsupervised-machine-translation-using-monolingual-corpora-only.pdf)] | Michael Przystupa | [[slides]()] |
-| Feb. 8 | [[OpenMT Code Tutorial](http://opennmt.net)] | Michael Przystupa| [[slides]()] |
+| Feb. 6 | [[Unsupervised Machine Translation Using Monolingual Corpora Only](https://research.fb.com/wp-content/uploads/2018/03/unsupervised-machine-translation-using-monolingual-corpora-only.pdf)] | Michael Przystupa | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190206_Unsuperved_Machine_Translation.pdf)] |
+| Feb. 8 | [[OpenMT Code Tutorial](http://opennmt.net)] | Michael Przystupa| [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190208_OpenNMT.pdf)] |
 | Feb. 13 | [[Graph-Attention Networks](https://mila.quebec/wp-content/uploads/2018/07/d1ac95b60310f43bb5a0b8024522fbe08fb2a482.pdf)] | Rudra Saha | [[slides]()] |
-| Feb. 15 | [Variational Auto-Encoders] | Mohit Bajaj | [[slides]()] |
+| Feb. 15 | [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) | Mohit Bajaj | [[slides]()] |
 | Feb. 27 | [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)] | Borna Ghotbi | [[slides]()] |
 | March 6 | [[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)] | Chiyu Zhang | [[slides]()] |
 ## 8. Readings (tentative):  
