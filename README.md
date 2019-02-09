@@ -103,9 +103,9 @@ TBA (But see above). There will be some space to customize some select sessions 
 | Feb. 6 | [[Unsupervised Machine Translation Using Monolingual Corpora Only](https://research.fb.com/wp-content/uploads/2018/03/unsupervised-machine-translation-using-monolingual-corpora-only.pdf)] | Michael Przystupa | [[slides]()] |
 | Feb. 8 | [[OpenMT Code Tutorial](http://opennmt.net)] | Michael Przystupa| [[slides]()] |
 | Feb. 13 | [[Graph-Attention Networks](https://mila.quebec/wp-content/uploads/2018/07/d1ac95b60310f43bb5a0b8024522fbe08fb2a482.pdf)] | Rudra Saha | [[slides]()] |
-| Feb. 15 | [[]()] | Mohit Bajaj | [[slides]()] |
+| Feb. 15 | [Variational Auto-Encoders] | Mohit Bajaj | [[slides]()] |
 | Feb. 27 | [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)] | Borna Ghotbi | [[slides]()] |
-
+| March 6 | [[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)] | Chiyu Zhang | [[slides]()] |
 ## 8. Readings (tentative):  
 
 ### Attention & Graphs
