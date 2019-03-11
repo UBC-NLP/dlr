@@ -102,12 +102,12 @@ TBA (But see above). There will be some space to customize some select sessions 
 | Jan. 25 | [[Multiple-Attribute Text Style Transfer](https://arxiv.org/pdf/1811.00552.pdf)] | Ife Adebara | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190125_style_transfer.pdf)] |
 | Feb. 6 | [[Unsupervised Machine Translation Using Monolingual Corpora Only](https://research.fb.com/wp-content/uploads/2018/03/unsupervised-machine-translation-using-monolingual-corpora-only.pdf)] | Michael Przystupa | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190206_Unsuperved_Machine_Translation.pdf)] |
 | Feb. 8 | [[OpenMT Code Tutorial](http://opennmt.net)] | Michael Przystupa| [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190208_OpenNMT.pdf)] |
-| Feb. 13 | [[Graph Convolutional Networks for Text Classification](https://arxiv.org/pdf/1809.05679.pdf)] | Rudra Saha | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190213Graph%20Convolutional%20Networks%20for%20Text%20Classification.pdf)] |
-| Feb. 15 | [[Auto-Encoding Variational Bayes]](https://arxiv.org/pdf/1312.6114.pdf) | Mohit Bajaj | [[slides]()] |
+| Feb. 13 | [[Graph Convolutional Networks for Text Classification](https://arxiv.org/pdf/1809.05679.pdf)] | Rudra Saha | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190213_Graph%20Convolutional%20Networks%20for%20Text%20Classification.pdf)] |
+| Feb. 15 | [[Auto-Encoding Variational Bayes]](https://arxiv.org/pdf/1312.6114.pdf) | Mohit Bajaj | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190215_variartional.pdf)] |
 | Feb. 27 | [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)] | Borna Ghotbi | [[slides]()] |
 | March 5 | [[When Convolutions Meet Reality -- Structured Neural Networks in Vision and Graphics](https://www.cs.ubc.ca/event/2019/03/when-convolutions-meet-reality-structured-neural-networks-vision-and-graphics-andreas-)] | Andreas Lehrmann (Facebook AI Research) | [[3:00PM - 4:00PM; X836](https://www.cs.ubc.ca/event/2019/03/when-convolutions-meet-reality-structured-neural-networks-vision-and-graphics-andreas-)] |
 | March 7 | [[Artificial Intelligence: From Analog to Digital and Back](https://caida.ubc.ca/event/artificial-intelligence-analog-digital-and-back-george-dyson)] | George Dyson | [[3:30PM – 4:30PM; Forest Sciences Centre, Room 1221- 2424 Main Mall, Zone 4](https://caida.ubc.ca/event/artificial-intelligence-analog-digital-and-back-george-dyson)] |
-| March 8 | [[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)] | Chiyu Zhang  | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190208_transformer-XL.pdf)] |
+| March 8 | [[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)] | Chiyu Zhang  | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190308_transformer-XL.pdf)] |
 | March 13 | [[Variational Neural Machine Translation](https://arxiv.org/pdf/1605.07869.pdf)] | Michael Przystupa | [[slides]()] |
 | March 15 | [[Style Transfer](xxx)] | Arun Rajendran | [[slides]()] |
 
