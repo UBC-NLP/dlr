@@ -107,7 +107,9 @@ TBA (But see above). There will be some space to customize some select sessions 
 | Feb. 27 | [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)] | Borna Ghotbi | [[slides]()] |
 | March 5 | [[When Convolutions Meet Reality -- Structured Neural Networks in Vision and Graphics](https://www.cs.ubc.ca/event/2019/03/when-convolutions-meet-reality-structured-neural-networks-vision-and-graphics-andreas-)] | Andreas Lehrmann (Facebook AI Research) | [[3:00PM - 4:00PM; X836](https://www.cs.ubc.ca/event/2019/03/when-convolutions-meet-reality-structured-neural-networks-vision-and-graphics-andreas-)] |
 | March 7 | [[Artificial Intelligence: From Analog to Digital and Back](https://caida.ubc.ca/event/artificial-intelligence-analog-digital-and-back-george-dyson)] | George Dyson | [[3:30PM – 4:30PM; Forest Sciences Centre, Room 1221- 2424 Main Mall, Zone 4](https://caida.ubc.ca/event/artificial-intelligence-analog-digital-and-back-george-dyson)] |
-| March 8 | [[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)] | Chiyu Zhang | [[slides]()] |
+| March 8 | [[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)] | Michael Przystupa | [[slides]()] |
+| March 13 | [[MT](xxx)] | Chiyu Zhang | [[slides]()] |
+| March 15 | [[Style Transfer](xxx)] | Arun Rajendran | [[slides]()] |
 
 
 ## 8. Readings (tentative):  
