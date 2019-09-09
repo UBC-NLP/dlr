@@ -113,7 +113,7 @@ TBA (But see above). There will be some space to customize some select sessions 
 | March 20 | [[Video and Language](https://www.cs.ubc.ca/event/2019/03/video-and-language-prof-jiebo-luo-university-rochester-0)] | Jiebo Luo (University of Rochester) | [[2:00PM - 3:30PM; ICCS146](https://www.cs.ubc.ca/event/2019/03/video-and-language-prof-jiebo-luo-university-rochester-0)] |
 | March 22 | [[Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)] | Rudra Saha | [[slides]()] |
 | April 14 | [[Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)] | Mohit Bajaj | [[slides]()] |
-| April 19 | [[Linguistic Variation]()] | Ife Adebara | [[slides]()] |
+| April 19 | [[Linguistic Variation]()] | Ife Adebara | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190419_language.pdf)] |
 | June 26 | [[Normalizing Flows]()] | Michael Przystupa | [[slides](https://blog.evjang.com/2018/01/nf1.html)] |
 | July 4 | [[XLNet: Generalized Autoregressive Pretraining for Language Understanding]()] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190704_xlnet.pdf)] |
 | July 25 | [[Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://arxiv.org/pdf/1904.01596.pdf)] | Peter Sullivan | [[slides]()] |
