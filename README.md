@@ -115,9 +115,10 @@ TBA (But see above). There will be some space to customize some select sessions 
 | April 14 | [[Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)] | Mohit Bajaj | [[slides]()] |
 | April 19 | [[Linguistic Variation]()] | Ife Adebara | [[slides]()] |
 | June 26 | [[Normalizing Flows]()] | Michael Przystupa | [[slides]()] |
-| July 4 | [[XLNet: Generalized Autoregressive Pretrainingfor Language Understanding]()] | Arun Rajendran | [[slides]()] |
-
-
+| July 4 | [[XLNet: Generalized Autoregressive Pretraining for Language Understanding]()] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190704_xlnet.pdf)] |
+| July 25 | [[Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://arxiv.org/pdf/1904.01596.pdf)] | Peter Sullivan | [[slides]()] |
+| August 1 | [[Analysis and detection of information types of open source software issue discussions](https://arxiv.org/pdf/1902.07093.pdf)] | Arthur Marques  | [[slides]()] |
+| August 8 | [[PyTorch Seq2Seq](https://github.com/bentrevett/pytorch-seq2seq)] | Rudra Saha | [[slides]()] |
 
 ## 8. Readings (tentative):  
 
