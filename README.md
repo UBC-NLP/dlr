@@ -117,8 +117,8 @@ TBA (But see above). There will be some space to customize some select sessions 
 | June 26 | [[Normalizing Flows](https://blog.evjang.com/2018/01/nf1.html)] | Michael Przystupa | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190626_Normalizing_Flows_tutorial.pdf)] |
 | July 4 | [[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190704_xlnet.pdf)] |
 | July 25 | [[Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://arxiv.org/pdf/1904.01596.pdf)] | Peter Sullivan | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190725Analyzing_Polarization.pdf)] |
-| August 1 | [[Analysis and detection of information types of open source software issue discussions](https://arxiv.org/pdf/1902.07093.pdf)] | Arthur Marques  | [[slides]()] |
-| August 8 | [[PyTorch Seq2Seq](https://github.com/bentrevett/pytorch-seq2seq)] | Rudra Saha | [[slides]()] |
+| August 1 | [[Analysis and detection of information types of open source software issue discussions](https://arxiv.org/pdf/1902.07093.pdf)] | Arthur Marques  | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190801Analysis_and_detection_software_issue.pdf)] |
+| August 8 | [[PyTorch Seq2Seq](https://github.com/bentrevett/pytorch-seq2seq)] | Rudra Saha | [[slides](https://github.com/bentrevett/pytorch-seq2seq)] |
 
 ## 8. Readings (tentative):  
 
