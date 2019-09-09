@@ -112,6 +112,10 @@ TBA (But see above). There will be some space to customize some select sessions 
 | March 15 | [[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf?fbclid=IwAR0f3k6MLQWt2xhoLGKndwsf53bIuO3F9JiHSAFncNpLYlr-StvWahrMwQM)] | Arun Rajendran | [[slides]()] |
 | March 20 | [[Video and Language](https://www.cs.ubc.ca/event/2019/03/video-and-language-prof-jiebo-luo-university-rochester-0)] | Jiebo Luo (University of Rochester) | [[2:00PM - 3:30PM; ICCS146](https://www.cs.ubc.ca/event/2019/03/video-and-language-prof-jiebo-luo-university-rochester-0)] |
 | March 22 | [[Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)] | Rudra Saha | [[slides]()] |
+| April 14 | [[Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)] | Mohit Bajaj | [[slides]()] |
+| April 19 | [[Linguistic Variation]()] | Ife Adebara | [[slides]()] |
+| June 26 | [[Normalizing Flows]()] | Michael Przystupa | [[slides]()] |
+| July 4 | [[XLNet: Generalized Autoregressive Pretrainingfor Language Understanding]()] | Arun Rajendran | [[slides]()] |
 
 
 
